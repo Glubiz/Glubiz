@@ -24,3 +24,4 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 ## My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Glubiz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glubiz&hide=php)](https://github.com/Glubiz)
