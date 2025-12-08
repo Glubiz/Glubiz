@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Solskov! 👋
 
-I'm a Developer at Netcompany since October 2022. During my time at Netcompany, I've had the opportunity to work on exciting projects, including moving the Danish tax system to Kubernetes.
+I'm a Developer at CEGO A/S, where I develop and maintain a system responsible for marketing consent and 3rd party integrations with SendGrid, Trustpilot, and Ortto.
 
 ## Education
 
@@ -12,10 +12,10 @@ I have a strong interest in web3 and blockchain technologies, and I'm always exp
 
 ## Languages & Tools
 
-I mainly develop in Rust and TypeScript, leveraging their unique features to build high-quality, efficient, and maintainable software.
+At CEGO, I primarily work with Laravel for developing and maintaining backend systems. In my side projects, I use Rust for both frontend and backend development, leveraging its unique features to build high-quality, efficient, and maintainable software.
 
-- **Rust:** Systems programming, CLI tools, and backend development.
-- **TypeScript:** Frontend development using modern frameworks like React and Angular.
+- **Laravel:** Backend development and API integrations at CEGO A/S.
+- **Rust:** Frontend and backend development for personal projects.
 
 ## Connect with me
 
