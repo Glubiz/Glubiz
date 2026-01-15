@@ -23,6 +23,6 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Glubiz&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glubiz&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Glubiz&theme=dark)](https://github.com/Glubiz)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Glubiz&hide=php&theme=dark&layout=compact)](https://github.com/Glubiz)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glubiz&hide=php&theme=dark&layout=compact)](https://github.com/Glubiz)
